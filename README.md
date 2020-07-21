@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Project Zomboid + Hydrocraft items connections visualization
+## Project Zomboid + Hydrocraft items connections visualization
 
 I'm using Hydrocraft and I was very lost at the beginning. To help me, I developed a visual system to understand the connection between the items and to know better what to look for in the game. I think it can also help the community.
 
